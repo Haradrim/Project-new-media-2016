@@ -1,7 +1,8 @@
-# Project-new-media-2016
+# Project new media 2016
 
-Hello, my name is Sander Vervaeke and I'm a Belgian student NMCT.
+Hello, my name is Sander Vervaeke and I'm a Belgian student NMCT (new media and communication technology).
 This is my first ever project created in Unity, I really enjoyed working in Unity and definitly will work on more projects in the future.
+This project was created for the course new media where we learn to create applications in combination with hardware like: Kinect, Wii, Arduino, Leap-motion.…
 
 Project info:
 
