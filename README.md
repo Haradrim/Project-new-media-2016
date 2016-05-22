@@ -7,7 +7,7 @@ This project was created for the course new media where we learn to create appli
 Project info:
 It’s a fun little project that allows you to draw around you using the Wiimote.
 The project uses four different scripts for its functionality. 
-Please consider that this project isn’t perfect yet and is subject to change.
+Please consider that this project isn’t perfect yet and is subject to change. Feel free to submit any changes that you think would be a better way to handle something in this project and why, so that I can continue the learning process. 
 
 -	FpsController script: this script is a basic first-person controller using the Wii mote rather than mouse and keyboard. This script uses Flafla2's Unity - Wiimote lib. 
 -	Drawing script: a script for drawing lines in Unity using the LineRenderer.
